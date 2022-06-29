@@ -1,0 +1,288 @@
+	Unnamed: 0	release_site	closest_island	Settled	count
+0	0	Guam	??	Not close enough	13
+1	1	Guam	??	Settled	31
+2	2	Guam	Bank_west_of_St._Rogatien_Bank	Not close enough	4195
+3	3	Guam	Gardner_Pinnacles	Not close enough	13466
+4	4	Guam	Hawaii	Not close enough	1254
+5	5	Guam	Hawaii	Settled	3077
+6	6	Guam	Kahoolawe	Settled	40
+7	7	Guam	Kauai	Not close enough	26158
+8	8	Guam	Kauai	Settled	5747
+9	9	Guam	Kaula	Not close enough	1140
+10	10	Guam	Kaula	Settled	464
+11	11	Guam	Kure_Atoll	Not close enough	3
+12	12	Guam	Lanai	Not close enough	2
+13	13	Guam	Lanai	Settled	81
+14	14	Guam	Maui	Not close enough	7498
+15	15	Guam	Maui	Settled	528
+16	16	Guam	Molokai	Not close enough	6034
+17	17	Guam	Molokai	Settled	195
+18	18	Guam	NW_Main_Hawaiin_Bank_1	Not close enough	4
+19	19	Guam	NW_Main_Hawaiin_Bank_2	Not close enough	42850
+20	20	Guam	NW_Main_Hawaiin_Bank_2	Settled	134
+21	21	Guam	Necker_Island	Not close enough	862
+22	22	Guam	Nihoa_Island	Not close enough	215419
+23	23	Guam	Nihoa_Island	Settled	5
+24	24	Guam	Niihau	Not close enough	578
+25	25	Guam	Niihau	Settled	3789
+26	26	Guam	Oahu	Not close enough	17976
+27	27	Guam	Oahu	Settled	1558
+28	28	Guam	Pearl_and_Hermes_Atoll	Not close enough	79817
+29	29	Guam	Raita_Bank	Not close enough	665082
+0	0	Saipan	??	Not close enough	34
+1	1	Saipan	??	Settled	125
+2	2	Saipan	Bank_west_of_St._Rogatien_Bank	Not close enough	1611
+3	3	Saipan	Gardner_Pinnacles	Not close enough	25659
+4	4	Saipan	Hawaii	Not close enough	5918
+5	5	Saipan	Hawaii	Settled	17934
+6	6	Saipan	Kahoolawe	Not close enough	1
+7	7	Saipan	Kahoolawe	Settled	189
+8	8	Saipan	Kauai	Not close enough	65689
+9	9	Saipan	Kauai	Settled	34413
+10	10	Saipan	Kaula	Not close enough	6642
+11	11	Saipan	Kaula	Settled	2565
+12	12	Saipan	Lanai	Not close enough	4
+13	13	Saipan	Lanai	Settled	335
+14	14	Saipan	Maui	Not close enough	14036
+15	15	Saipan	Maui	Settled	2418
+16	16	Saipan	Molokai	Not close enough	11378
+17	17	Saipan	Molokai	Settled	695
+18	18	Saipan	NW_Main_Hawaiin_Bank_1	Not close enough	12
+19	19	Saipan	NW_Main_Hawaiin_Bank_1	Settled	26
+20	20	Saipan	NW_Main_Hawaiin_Bank_2	Not close enough	121746
+21	21	Saipan	NW_Main_Hawaiin_Bank_2	Settled	1180
+22	22	Saipan	Necker_Island	Not close enough	1201
+23	23	Saipan	Nihoa_Island	Not close enough	253100
+24	24	Saipan	Nihoa_Island	Settled	42
+25	25	Saipan	Niihau	Not close enough	2698
+26	26	Saipan	Niihau	Settled	11863
+27	27	Saipan	Oahu	Not close enough	34481
+28	28	Saipan	Oahu	Settled	9845
+29	29	Saipan	Pearl_and_Hermes_Atoll	Not close enough	17
+30	30	Saipan	Raita_Bank	Not close enough	472143
+0	0	Majuro	??	Not close enough	1
+1	1	Majuro	??	Settled	2
+2	2	Majuro	Bank_west_of_St._Rogatien_Bank	Not close enough	5704
+3	3	Majuro	Bank_west_of_St._Rogatien_Bank	Settled	4432
+4	4	Majuro	French_Frigate_Shoals	Not close enough	9513
+5	5	Majuro	French_Frigate_Shoals	Settled	8682
+6	6	Majuro	Gardner_Pinnacles	Not close enough	28414
+7	7	Majuro	Gardner_Pinnacles	Settled	5958
+8	8	Majuro	Hawaii	Not close enough	33
+9	9	Majuro	Hawaii	Settled	10
+10	10	Majuro	Johnston_Atoll	Not close enough	37657
+11	11	Majuro	Johnston_Atoll	Settled	16473
+12	12	Majuro	Kahoolawe	Not close enough	2
+13	13	Majuro	Kahoolawe	Settled	3
+14	14	Majuro	Kauai	Not close enough	29
+15	15	Majuro	Kauai	Settled	100
+16	16	Majuro	Kaula	Not close enough	1335
+17	17	Majuro	Kaula	Settled	165
+18	18	Majuro	Lanai	Not close enough	1
+19	19	Majuro	Lanai	Settled	20
+20	20	Majuro	Laysan_Island	Not close enough	1339
+21	21	Majuro	Laysan_Island	Settled	198
+22	22	Majuro	Laysan_South_Pinnacle	Not close enough	130
+23	23	Majuro	Laysan_South_Pinnacle	Settled	101
+24	24	Majuro	Laysan_West_pinnacle	Not close enough	410
+25	25	Majuro	Laysan_West_pinnacle	Settled	308
+26	26	Majuro	Maro_Reef	Not close enough	4499
+27	27	Majuro	Maro_Reef	Settled	4522
+28	28	Majuro	Maui	Settled	12
+29	29	Majuro	Molokai	Settled	41
+30	30	Majuro	NW_Main_Hawaiin_Bank_1	Not close enough	1120
+31	31	Majuro	NW_Main_Hawaiin_Bank_1	Settled	409
+32	32	Majuro	NW_Main_Hawaiin_Bank_2	Not close enough	195
+33	33	Majuro	NW_Main_Hawaiin_Bank_2	Settled	261
+34	34	Majuro	Necker_Island	Not close enough	3209
+35	35	Majuro	Necker_Island	Settled	1045
+36	36	Majuro	Nihoa_Island	Not close enough	47
+37	37	Majuro	Nihoa_Island	Settled	105
+38	38	Majuro	Niihau	Not close enough	105
+39	39	Majuro	Niihau	Settled	513
+40	40	Majuro	Oahu	Not close enough	3
+41	41	Majuro	Oahu	Settled	45
+42	42	Majuro	Pioneer_Bank	Not close enough	145
+43	43	Majuro	Pioneer_Bank	Settled	2
+44	44	Majuro	Raita_Bank	Not close enough	21522
+45	45	Majuro	Raita_Bank	Settled	8609
+46	46	Majuro	St._Rogatien_Bank	Not close enough	749
+47	47	Majuro	St._Rogatien_Bank	Settled	5331
+48	48	Majuro	St._Rogatien_SE_Bank_1	Not close enough	37
+49	49	Majuro	St._Rogatien_SE_Bank_1	Settled	2822
+50	50	Majuro	St._Rogatien_SE_Bank_2	Not close enough	74
+51	51	Majuro	St._Rogatien_SE_Bank_2	Settled	2786
+52	52	Majuro	St._Rogatien_SE_Bank_3	Not close enough	1450
+53	53	Majuro	St._Rogatien_SE_Bank_3	Settled	2322
+0	0	Rongelap	??	Not close enough	21
+1	1	Rongelap	??	Settled	76
+2	2	Rongelap	Bank_west_of_St._Rogatien_Bank	Not close enough	2741
+3	3	Rongelap	Bank_west_of_St._Rogatien_Bank	Settled	2616
+4	4	Rongelap	French_Frigate_Shoals	Not close enough	15043
+5	5	Rongelap	French_Frigate_Shoals	Settled	13306
+6	6	Rongelap	Gardner_Pinnacles	Not close enough	7298
+7	7	Rongelap	Gardner_Pinnacles	Settled	1794
+8	8	Rongelap	Hawaii	Not close enough	1310
+9	9	Rongelap	Hawaii	Settled	375
+10	10	Rongelap	Johnston_Atoll	Not close enough	27372
+11	11	Rongelap	Johnston_Atoll	Settled	1897
+12	12	Rongelap	Kahoolawe	Not close enough	99
+13	13	Rongelap	Kahoolawe	Settled	115
+14	14	Rongelap	Kauai	Not close enough	752
+15	15	Rongelap	Kauai	Settled	4481
+16	16	Rongelap	Kaula	Not close enough	15440
+17	17	Rongelap	Kaula	Settled	1092
+18	18	Rongelap	Lanai	Not close enough	48
+19	19	Rongelap	Lanai	Settled	282
+20	20	Rongelap	Laysan_Island	Not close enough	79
+21	21	Rongelap	Maro_Reef	Not close enough	271
+22	22	Rongelap	Maro_Reef	Settled	40
+23	23	Rongelap	Maui	Not close enough	4
+24	24	Rongelap	Maui	Settled	461
+25	25	Rongelap	Molokai	Not close enough	13
+26	26	Rongelap	Molokai	Settled	852
+27	27	Rongelap	NW_Main_Hawaiin_Bank_1	Not close enough	16965
+28	28	Rongelap	NW_Main_Hawaiin_Bank_1	Settled	4525
+29	29	Rongelap	NW_Main_Hawaiin_Bank_2	Not close enough	2180
+30	30	Rongelap	NW_Main_Hawaiin_Bank_2	Settled	2674
+31	31	Rongelap	Necker_Island	Not close enough	20039
+32	32	Rongelap	Necker_Island	Settled	3241
+33	33	Rongelap	Nihoa_Island	Not close enough	1438
+34	34	Rongelap	Nihoa_Island	Settled	1577
+35	35	Rongelap	Niihau	Not close enough	1000
+36	36	Rongelap	Niihau	Settled	4149
+37	37	Rongelap	Oahu	Not close enough	179
+38	38	Rongelap	Oahu	Settled	1382
+39	39	Rongelap	Raita_Bank	Not close enough	1348
+40	40	Rongelap	Raita_Bank	Settled	578
+41	41	Rongelap	St._Rogatien_Bank	Not close enough	305
+42	42	Rongelap	St._Rogatien_Bank	Settled	5306
+43	43	Rongelap	St._Rogatien_SE_Bank_1	Not close enough	87
+44	44	Rongelap	St._Rogatien_SE_Bank_1	Settled	5513
+45	45	Rongelap	St._Rogatien_SE_Bank_2	Not close enough	208
+46	46	Rongelap	St._Rogatien_SE_Bank_2	Settled	4946
+47	47	Rongelap	St._Rogatien_SE_Bank_3	Not close enough	2961
+48	48	Rongelap	St._Rogatien_SE_Bank_3	Settled	4521
+0	0	Kiritimati	Hawaii	Not close enough	2
+1	1	Kiritimati	Johnston_Atoll	Not close enough	179586
+2	2	Kiritimati	Johnston_Atoll	Settled	35
+3	3	Kiritimati	Lisianski_Island	Not close enough	2
+0	0	Pohnpei	Bank_west_of_St._Rogatien_Bank	Not close enough	633
+1	1	Pohnpei	Bank_west_of_St._Rogatien_Bank	Settled	254
+2	2	Pohnpei	French_Frigate_Shoals	Not close enough	114
+3	3	Pohnpei	French_Frigate_Shoals	Settled	171
+4	4	Pohnpei	Gardner_Pinnacles	Not close enough	7652
+5	5	Pohnpei	Gardner_Pinnacles	Settled	1048
+6	6	Pohnpei	Hawaii	Not close enough	3
+7	7	Pohnpei	Hawaii	Settled	7
+8	8	Pohnpei	Johnston_Atoll	Not close enough	2473
+9	9	Pohnpei	Johnston_Atoll	Settled	390
+10	10	Pohnpei	Kauai	Not close enough	231
+11	11	Pohnpei	Kauai	Settled	1044
+12	12	Pohnpei	Kaula	Not close enough	79
+13	13	Pohnpei	Kaula	Settled	62
+14	14	Pohnpei	Laysan_Island	Not close enough	201934
+15	15	Pohnpei	Laysan_Island	Settled	108026
+16	16	Pohnpei	Laysan_South_Pinnacle	Not close enough	66152
+17	17	Pohnpei	Laysan_South_Pinnacle	Settled	87604
+18	18	Pohnpei	Laysan_West_pinnacle	Not close enough	35456
+19	19	Pohnpei	Laysan_West_pinnacle	Settled	64480
+20	20	Pohnpei	Lisianski_Island	Not close enough	19938
+21	21	Pohnpei	Lisianski_Island	Settled	7017
+22	22	Pohnpei	Maro_Reef	Not close enough	227611
+23	23	Pohnpei	Maro_Reef	Settled	165811
+24	24	Pohnpei	Maui	Not close enough	1
+25	25	Pohnpei	Molokai	Settled	1
+26	26	Pohnpei	NW_Main_Hawaiin_Bank_2	Not close enough	127
+27	27	Pohnpei	NW_Main_Hawaiin_Bank_2	Settled	164
+28	28	Pohnpei	Niihau	Not close enough	49
+29	29	Pohnpei	Niihau	Settled	252
+30	30	Pohnpei	Oahu	Settled	8
+31	31	Pohnpei	Pearl_and_Hermes_Atoll	Not close enough	254
+32	32	Pohnpei	Pearl_and_Hermes_Atoll	Settled	260
+33	33	Pohnpei	Pioneer_Bank	Not close enough	9745
+34	34	Pohnpei	Pioneer_Bank	Settled	10625
+35	35	Pohnpei	Raita_Bank	Not close enough	57053
+36	36	Pohnpei	Raita_Bank	Settled	20599
+37	37	Pohnpei	St._Rogatien_Bank	Not close enough	152
+38	38	Pohnpei	St._Rogatien_Bank	Settled	121
+39	39	Pohnpei	St._Rogatien_SE_Bank_1	Not close enough	6
+40	40	Pohnpei	St._Rogatien_SE_Bank_1	Settled	142
+41	41	Pohnpei	St._Rogatien_SE_Bank_2	Not close enough	3
+42	42	Pohnpei	St._Rogatien_SE_Bank_2	Settled	107
+43	43	Pohnpei	St._Rogatien_SE_Bank_3	Not close enough	79
+44	44	Pohnpei	St._Rogatien_SE_Bank_3	Settled	62
+0	0	Okinawa	??	Settled	1
+1	1	Okinawa	Gardner_Pinnacles	Not close enough	4047
+2	2	Okinawa	Hawaii	Not close enough	80234
+3	3	Okinawa	Hawaii	Settled	19
+4	4	Okinawa	Kauai	Not close enough	184683
+5	5	Okinawa	Lanai	Settled	1
+6	6	Okinawa	Maui	Not close enough	114847
+7	7	Okinawa	Maui	Settled	1
+8	8	Okinawa	Molokai	Not close enough	7559
+9	9	Okinawa	Molokai	Settled	3
+10	10	Okinawa	NW_Main_Hawaiin_Bank_2	Not close enough	2615
+11	11	Okinawa	Nihoa_Island	Not close enough	179328
+12	12	Okinawa	Oahu	Not close enough	139276
+13	13	Okinawa	Pearl_and_Hermes_Atoll	Not close enough	35445
+14	14	Okinawa	Raita_Bank	Not close enough	532941
+0	0	Okinawa	Bank_west_of_St._Rogatien_Bank	Not close enough	12
+1	1	Okinawa	Gardner_Pinnacles	Not close enough	12111
+2	2	Okinawa	Hawaii	Not close enough	160639
+3	3	Okinawa	Hawaii	Settled	3
+4	4	Okinawa	Kauai	Not close enough	70236
+5	5	Okinawa	Maui	Not close enough	135409
+6	6	Okinawa	Maui	Settled	1
+7	7	Okinawa	Molokai	Not close enough	6920
+8	8	Okinawa	NW_Main_Hawaiin_Bank_2	Not close enough	4097
+9	9	Okinawa	Necker_Island	Not close enough	1
+10	10	Okinawa	Nihoa_Island	Not close enough	98374
+11	11	Okinawa	Oahu	Not close enough	60534
+12	12	Okinawa	Pearl_and_Hermes_Atoll	Not close enough	47080
+13	13	Okinawa	Raita_Bank	Not close enough	685583
+0	0	FrenchFrigateShoal	Hawaii	Not close enough	149789
+1	1	FrenchFrigateShoal	Johnston_Atoll	Not close enough	33211
+0	0	Johnston	Hawaii	Not close enough	31002
+1	1	Johnston	Johnston_Atoll	Not close enough	151918
+2	2	Johnston	Johnston_Atoll	Settled	4
+3	3	Johnston	Kaula	Not close enough	76
+0	0	Wake	??	Not close enough	718
+1	1	Wake	??	Settled	994
+2	2	Wake	Bank_west_of_St._Rogatien_Bank	Settled	1
+3	3	Wake	French_Frigate_Shoals	Not close enough	119
+4	4	Wake	French_Frigate_Shoals	Settled	76
+5	5	Wake	Gardner_Pinnacles	Not close enough	6
+6	6	Wake	Gardner_Pinnacles	Settled	5
+7	7	Wake	Hawaii	Not close enough	551627
+8	8	Wake	Hawaii	Settled	9352
+9	9	Wake	Johnston_Atoll	Not close enough	50214
+10	10	Wake	Kahoolawe	Not close enough	3217
+11	11	Wake	Kahoolawe	Settled	1615
+12	12	Wake	Kauai	Not close enough	3938
+13	13	Wake	Kauai	Settled	6742
+14	14	Wake	Kaula	Not close enough	27843
+15	15	Wake	Kaula	Settled	857
+16	16	Wake	Lanai	Not close enough	3089
+17	17	Wake	Lanai	Settled	4803
+18	18	Wake	Maui	Not close enough	175
+19	19	Wake	Maui	Settled	6507
+20	20	Wake	Molokai	Not close enough	359
+21	21	Wake	Molokai	Settled	9190
+22	22	Wake	NW_Main_Hawaiin_Bank_1	Not close enough	4664
+23	23	Wake	NW_Main_Hawaiin_Bank_1	Settled	822
+24	24	Wake	NW_Main_Hawaiin_Bank_2	Not close enough	1334
+25	25	Wake	NW_Main_Hawaiin_Bank_2	Settled	1205
+26	26	Wake	Necker_Island	Not close enough	1179
+27	27	Wake	Necker_Island	Settled	4
+28	28	Wake	Nihoa_Island	Not close enough	505
+29	29	Wake	Nihoa_Island	Settled	259
+30	30	Wake	Niihau	Not close enough	430
+31	31	Wake	Niihau	Settled	1978
+32	32	Wake	Oahu	Not close enough	16138
+33	33	Wake	Oahu	Settled	21996
+34	34	Wake	St._Rogatien_Bank	Not close enough	4
+35	35	Wake	St._Rogatien_Bank	Settled	2
+36	36	Wake	St._Rogatien_SE_Bank_2	Settled	5
+37	37	Wake	St._Rogatien_SE_Bank_3	Not close enough	19
+38	38	Wake	St._Rogatien_SE_Bank_3	Settled	9
