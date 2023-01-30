@@ -1,5 +1,5 @@
 # LAPS
-Code and tables generated from analyses for "title here" by ... Datasets are too large for github and can be found ???
+Code from analyses for "title here" by ... Datasets are too large for github and can be found ???
 
 # OceanParcels Larval Dispersal Simulation Runs
 LAPS_Sensitivity_stopRelease_Distance_22Nov2021.ipynb contains a jupyter notebook python file to simulate larval dispersal using OceanParcels
