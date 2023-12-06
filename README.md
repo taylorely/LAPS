@@ -1,10 +1,11 @@
 # LAPS
-Code from analyses for "title here" by ... Datasets are too large for github and can be found ???
+Code from analyses for Key sensitivities for long-distance dispersal models in the North Central Pacific Ocean 
+by Taylor D. Ely¶, Gabriella N. M. Mukai1¶, Donald R. Kobayashi, Peter B. Marko, Amy L. Moran, Johanna L. K. Wren.¶ = co-first authots. Datasets are too large for github. Please contact us if interested. 
 
 # OceanParcels Larval Dispersal Simulation Runs
-LAPS_Sensitivity_stopRelease_Distance_22Nov2021.ipynb contains a jupyter notebook python file to simulate larval dispersal using OceanParcels
+LAPS_Sensitivity_stopRelease_Distance_Settle_withFreeSlip_3Oct2022.ipynb contains a jupyter notebook python file to simulate larval dispersal using OceanParcels
 
-LAPS_release_sites_noHI.csv contains the coordinates of where particles are released in the simulation in LAPS_Sensitivity_stopRelease_Distance_22Nov2021.ipynb
+LAPS_release_sites_noHI.csv contains the coordinates of where particles are released in the simulation in LAPS_Sensitivity_stopRelease_Distance_Settle_withFreeSlip_3Oct2022.ipynb
 
 None of the HYCOM input values and none of the ouput netcdf files were included in this folder because they are too large
 
