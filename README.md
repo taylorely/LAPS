@@ -1,6 +1,6 @@
 # LAPS
 Code from analyses for Key sensitivities for long-distance dispersal models in the North Central Pacific Ocean 
-by Taylor D. Ely¶, Gabriella N. M. Mukai1¶, Donald R. Kobayashi, Peter B. Marko, Amy L. Moran, Johanna L. K. Wren.¶ = co-first authots. Datasets are too large for github. Please contact us if interested. 
+by Taylor D. Ely¶, Gabriella N. M. Mukai¶, Donald R. Kobayashi, Peter B. Marko, Amy L. Moran, Johanna L. K. Wren.¶ = co-first authots. Datasets are too large for github. Please contact us if interested. 
 
 # OceanParcels Larval Dispersal Simulation Runs
 LAPS_Sensitivity_stopRelease_Distance_Settle_withFreeSlip_3Oct2022.ipynb contains a jupyter notebook python file to simulate larval dispersal using OceanParcels
